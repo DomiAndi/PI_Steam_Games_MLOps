@@ -70,3 +70,4 @@ El código para la generación de la API se encuentra en el archivo `Main`. Para
 
 El despliegue de la API se realizó en la plataforma Render. 
 Se generó un servicio en Render conectado a este repositorio y se puede acceder a la API
+Puede acceder mediante el siguiente enlace https://pi-steam-games-mlops.onrender.com
